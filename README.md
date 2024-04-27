@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Timetable for B1 CSE (5th Sem)
 
 Tired of opening the Excel sheet and going to GCR for the link again and again? Here's a solution that might help in making things easier for you. Just open it and choose your batch and electives and you're all set for this semester.
@@ -46,3 +47,6 @@ Tired of opening the Excel sheet and going to GCR for the link again and again? 
 ##
 
 <p align="center">Leave a ⭐ if you like it.</p>
+=======
+# online-timetable1
+>>>>>>> e0587914935dfb0c87171977e829a4188dbab8fa
